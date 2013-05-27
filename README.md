@@ -8,5 +8,5 @@ Latest _dev_ builds of the pack can be found at http://mcme.co/dump/rohanpack
 
 
 ###TODO
-- Get Jenkins Building and distributing automatically.
+- ~~Get Jenkins Building and distributing automatically.~~
 - Write guidelines for submitting changes
