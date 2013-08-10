@@ -20,6 +20,9 @@
 		<fileSet>
             <directory>MCME-UI/src/main/pack</directory>
             <outputDirectory>/assets/minecraft</outputDirectory>
+			<excludes>
+                <exclude>records/**</exclude>
+            </excludes>
         </fileSet>
     </fileSets>
 </assembly>
