@@ -17,5 +17,9 @@
                 <exclude>records/**</exclude>
             </excludes>
         </fileSet>
+		<fileSet>
+            <directory>MCME-UI/src/main/pack</directory>
+            <outputDirectory>/assets/minecraft</outputDirectory>
+        </fileSet>
     </fileSets>
 </assembly>
