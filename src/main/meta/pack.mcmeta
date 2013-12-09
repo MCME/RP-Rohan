@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "Minecraft Middle Earth Rohan"
+    "description": "MCME Rohan ${project.version}"
   }
 }
