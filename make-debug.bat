@@ -8,4 +8,3 @@ xcopy /y/s %oldDir%\src\main\meta\* %newDir%\Rohan-DEBUG
 xcopy /y/s %oldDir%\src\main\pack\* %newDir%\Rohan-DEBUG\assets\minecraft
 xcopy /y/s %oldDir%\MCME-UI\src\main\pack\*.* %newDir%\Rohan-DEBUG\assets\minecraft
 xcopy /y/s %oldDir%\MCME-Aural-Experience\src\main\pack\*.* %newDir%\Rohan-DEBUG\assets\minecraft
-pause
