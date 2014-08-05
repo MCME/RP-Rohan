@@ -1,2 +1,0 @@
-version 1.07
-	New door texture from Wodleth
