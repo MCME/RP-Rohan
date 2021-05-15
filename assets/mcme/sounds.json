@@ -1,0 +1,10 @@
+{
+  "rohan": {
+    "sounds": [
+      {
+        "name": "mcme:region/rohan_theme_trist",
+        "stream": true
+      }
+    ]
+  }
+}
