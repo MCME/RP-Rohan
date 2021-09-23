@@ -4,6 +4,10 @@
       {
         "name": "mcme:region/rohan_theme_trist",
         "stream": true
+      },
+      {
+        "name": "mcme:region/helms_deep_theme_shervin",
+        "stream": true
       }
     ]
   }
