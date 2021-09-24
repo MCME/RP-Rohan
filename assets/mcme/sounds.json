@@ -4,7 +4,11 @@
       {
         "name": "mcme:region/rohan_theme_trist",
         "stream": true
-      },
+      }
+    ]
+  },
+  "helms_deep": {
+    "sounds": [
       {
         "name": "mcme:region/helms_deep_theme_shervin",
         "stream": true
