@@ -1,9 +1,9 @@
 {
   "textures": {
-    "particle": "edit/waterlily",
-    "0": "edit/waterlily",
-    "1": "edit/snow",
-    "2": "edit/gold_block"
+    "particle": "block/waterlily",
+    "0": "block/waterlily",
+    "1": "block/snow",
+    "2": "block/gold_block"
   },
   "elements": [
     {
